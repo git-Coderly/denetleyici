@@ -1,0 +1,2 @@
+# denetleyici
+Makale denetleyici
