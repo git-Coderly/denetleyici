@@ -13,7 +13,7 @@ difference = matcher.ratio()
 
 # Benzerlik oranını kontrol edin
 similarity = difference * 100
-if similarity <= 70:
+if similarity <= 25:
     print(f"Metin özgün. * Benzerlik oranı: {similarity:.2f}%")
 else:
     print(f"Metin özgün değil. Benzerlik oranı: {similarity:.2f}%")
