@@ -1,2 +1,4 @@
 # denetleyici
-Makale denetleyici
+
+pip install cdifflib
+
